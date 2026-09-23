@@ -79,6 +79,17 @@ void Display(void)
 	} else {
         // set Y position to increment 1.5 times the direction of the bounce
         ypos += ydir*ball_speed;
+        //Modicación: La pelota ahora se mueve horizontalmente
+        xpos += xdir*ball_speed;
+
+        //Si la pelota toca la pared derecha, cambia hacia la izquierda
+        if (xpos >= 160 - RadiusOfBall)
+            xdir = -1;
+
+        //Si la pelota toca la pared izquierda, cambia hacia la derecha
+        else if (xpos <= RadiusOfBall)
+            xdir = 1;
+
 
 	    // If ball touches the top, change direction of ball downwards
   	    if (ypos == 120-RadiusOfBall){
@@ -88,7 +99,7 @@ void Display(void)
         else if (ypos < RadiusOfBall)
 		    ydir = 1;
 	}
-  
+
 /*  //reset transformation state 
   glLoadIdentity();
   
