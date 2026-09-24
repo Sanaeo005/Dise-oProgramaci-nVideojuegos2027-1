@@ -12,6 +12,12 @@ double xpos, ypos, ydir, xdir;         // x and y position for house to be drawn
 double sx, sy, squash;          // xy scale factors
 double rot, rdir;             // rotation
 double ball_speed;
+//Modificación--------------------------
+double paddle1_y, paddle2_y;
+
+const double paddle_width = 5.0;
+const double paddle_height = 30.0;
+//--------------------------------------
 
 GLfloat T1[16] = {1.,0.,0.,0.,\
                   0.,1.,0.,0.,\
@@ -48,6 +54,61 @@ void draw_ball() {
   MyCircle2f(0.,0.,RadiusOfBall);
   
 }
+
+//Modificación
+void draw_paddle(double x, double y)
+{
+    glBegin(GL_QUADS);
+
+    glVertex2f(x, y);
+    glVertex2f(x + paddle_width, y);
+    glVertex2f(x + paddle_width, y + paddle_height);
+    glVertex2f(x, y + paddle_height);
+
+    glEnd();
+}
+
+//Modificación
+void keyboard(unsigned char key, int x, int y)
+{
+    if (key == 'w' || key == 'W') {
+        paddle1_y += 5.0;
+
+        if (paddle1_y + paddle_height > 120.0)
+            paddle1_y = 120.0 - paddle_height;
+    }
+
+    if (key == 's' || key == 'S') {
+        paddle1_y -= 5.0;
+
+        if (paddle1_y < 0.0)
+            paddle1_y = 0.0;
+    }
+
+    glutPostRedisplay();
+}
+
+//Modificación
+void special_keyboard(int key, int x, int y)
+{
+    if (key == GLUT_KEY_UP) {
+        paddle2_y += 5.0;
+
+        if (paddle2_y + paddle_height > 120.0)
+            paddle2_y = 120.0 - paddle_height;
+    }
+
+    if (key == GLUT_KEY_DOWN) {
+        paddle2_y -= 5.0;
+
+        if (paddle2_y < 0.0)
+            paddle2_y = 0.0;
+    }
+
+    glutPostRedisplay();
+}
+
+
 
 void Display(void)
 {
@@ -135,6 +196,14 @@ void Display(void)
   glMultMatrixf(T1);
   
   draw_ball();
+  //Modificación
+  glLoadIdentity();
+
+  glColor3f(1.0, 1.0, 1.0);
+
+  draw_paddle(5.0, paddle1_y);
+  draw_paddle(150.0, paddle2_y);
+
   glutPostRedisplay(); 
 
   
@@ -165,6 +234,9 @@ void init(void){
   sx = 1.; sy = 1.; squash = 0.9;
   rot = 0;
   ball_speed = 1.5;
+  //Modificación
+  paddle1_y = 45.0;
+  paddle2_y = 45.0;
 
 }
 
@@ -179,6 +251,10 @@ int main(int argc, char* argv[])
   init();
   glutDisplayFunc(Display);
   glutReshapeFunc(reshape);
+  //Modificación-------------------------
+  glutKeyboardFunc(keyboard);
+  glutSpecialFunc(special_keyboard);
+  //'------------------------------------
   glutMainLoop();
 
   return 1;
