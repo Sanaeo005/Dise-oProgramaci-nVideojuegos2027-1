@@ -5,13 +5,20 @@
 #include <GL/glut.h> //the glut file for windows operations
                      // it also includes gl.h and glu.h for the openGL library calls
 #include <math.h>
-
+//MOdificación-------
+#include <iostream>
+using namespace std;
+//-------------------
 #define PI 3.1415926535898 
 
 double xpos, ypos, ydir, xdir;         // x and y position for house to be drawn
 double sx, sy, squash;          // xy scale factors
 double rot, rdir;             // rotation
 double ball_speed;
+//Modificación---------------------
+int score1 = 0;
+int score2 = 0;
+//---------------------------------
 //Modificación--------------------------
 double paddle1_y, paddle2_y;
 
@@ -162,6 +169,38 @@ void Display(void)
         }
 //-----------------------------------------------------------------------
 
+//----------------Modificación----------------------------------
+        if (xpos < 0.0)
+        {
+            score2++;
+
+            cout << "Jugador 1: " << score1
+                 << " | Jugador 2: " << score2 << endl;
+
+            xpos = 80.0;
+            ypos = 60.0;
+
+            xdir = -1;
+            ydir = 1;
+        }
+
+        // Punto-jugador 1
+        if (xpos > 160.0)
+        {
+            score1++;
+
+            cout << "Jugador 1: " << score1
+                 << " | Jugador 2: " << score2 << endl;
+
+            xpos = 80.0;
+            ypos = 60.0;
+
+            xdir = 1;
+            ydir = 1;
+        }
+// ---------------------------------------------------------
+
+
 	    // If ball touches the top, change direction of ball downwards
   	    if (ypos == 120-RadiusOfBall){
     	    ydir = -1;
@@ -169,6 +208,10 @@ void Display(void)
 	    // If ball touches the bottom, change direction of ball upwards
         else if (ypos < RadiusOfBall)
 		    ydir = 1;
+
+
+
+
 	}
 
 /*  //reset transformation state 
