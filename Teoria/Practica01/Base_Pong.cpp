@@ -142,15 +142,25 @@ void Display(void)
         ypos += ydir*ball_speed;
         //Modicación: La pelota ahora se mueve horizontalmente
         xpos += xdir*ball_speed;
-
-        //Si la pelota toca la pared derecha, cambia hacia la izquierda
-        if (xpos >= 160 - RadiusOfBall)
-            xdir = -1;
-
-        //Si la pelota toca la pared izquierda, cambia hacia la derecha
-        else if (xpos <= RadiusOfBall)
+//MODIFICACIÓN-----------------------------------------------------------
+        // Colisión con la paleta izquierda
+        if (xpos - RadiusOfBall <= 5.0 + paddle_width &&
+            xpos - RadiusOfBall >= 5.0 &&
+            ypos + RadiusOfBall >= paddle1_y &&
+            ypos - RadiusOfBall <= paddle1_y + paddle_height)
+        {
             xdir = 1;
+        }
 
+        // Colisión con la paleta derecha
+        if (xpos + RadiusOfBall >= 150.0 &&
+            xpos + RadiusOfBall <= 150.0 + paddle_width &&
+            ypos + RadiusOfBall >= paddle2_y &&
+            ypos - RadiusOfBall <= paddle2_y + paddle_height)
+        {
+            xdir = -1;
+        }
+//-----------------------------------------------------------------------
 
 	    // If ball touches the top, change direction of ball downwards
   	    if (ypos == 120-RadiusOfBall){
