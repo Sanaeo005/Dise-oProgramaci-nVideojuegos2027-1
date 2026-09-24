@@ -57,7 +57,8 @@ void MyCircle2f(GLfloat centerx, GLfloat centery, GLfloat radius){
 GLfloat RadiusOfBall = 15.;
 // Draw the ball, centered at the origin
 void draw_ball() {
-  glColor3f(0.6,0.3,0.);
+  //modificación:color blanco
+  glColor3f(1.0, 1.0, 1.0);
   MyCircle2f(0.,0.,RadiusOfBall);
   
 }
@@ -252,7 +253,8 @@ void Display(void)
   //Modificación
   glLoadIdentity();
 
-  glColor3f(1.0, 1.0, 1.0);
+  //Modificación: color verde
+  glColor3f(0.0, 1.0, 0.0);
 
   draw_paddle(5.0, paddle1_y);
   draw_paddle(150.0, paddle2_y);
@@ -280,8 +282,8 @@ void reshape (int w, int h)
 
 
 void init(void){
-  //set the clear color
-  glClearColor(0.0,0.8,0.0,1.0);
+  //Modificación: color negro
+  glClearColor(0.0, 0.0, 0.0, 1.0);  
   // initial position set to 0,0
   xpos = 80; ypos = RadiusOfBall; xdir = 1; ydir = 1;
   sx = 1.; sy = 1.; squash = 0.9;
