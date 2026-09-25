@@ -1,0 +1,4118 @@
+fileFormatVersion: 2
+guid: 2a975eeebad3042ba887c19e42dfe7dd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1841
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9348c20ebef8eeadd9ebfb298495ac5d
+      internalID: -1816888473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1841
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4820341509e4c7ff4bc48509ee74fd71
+      internalID: -889967602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1838
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b031ce553df4d347942bb119f1f6bcf
+      internalID: -584800592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1839
+        width: 89
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47205aba06f7c7f44817f2781216d5cc
+      internalID: 1800873041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_4
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1832
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c686f4e8d9343e3b7781f18194b683
+      internalID: -1813499443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_5
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1832
+        width: 70
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9cc643b0d8c3bc0bed547194674057
+      internalID: -677738461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_6
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1830
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deab5772ddf3e0802b4d38135fa53676
+      internalID: 1856287627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_7
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1832
+        width: 116
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6262b4de58c12c49bac6bcbb59d3206c
+      internalID: 113375201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_8
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1832
+        width: 106
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5694cc27d855e66ff93d2261b5aab11c
+      internalID: 1356530076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_9
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1820
+        width: 77
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c745c81ddf1bac550be2475577f11294
+      internalID: 894949790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_10
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1815
+        width: 100
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d8dbaf86e88faf9ac3f0e0870449f4
+      internalID: -571135486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_11
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1727
+        width: 99
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dc35958c386e769a71d701ed2070df
+      internalID: -137156929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_12
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1727
+        width: 122
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9c9fa3385f2596f936e619ed29ab45
+      internalID: 1499361589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_13
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1722
+        width: 135
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee59f0ae9959fe5589bb6cb430e7cc3
+      internalID: -1965091496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_14
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1722
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fc3a656895202c29370432e41f5802
+      internalID: -1915797733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_15
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1720
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdac51861306b08b18e41f89053d1f79
+      internalID: 1203997768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_16
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1708
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858a4715fa04d92bbb59a00a939b879b
+      internalID: 1063179177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_17
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1710
+        width: 85
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620fabd46095a751f95bd21e2b960ed9
+      internalID: -1300743079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_18
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1700
+        width: 95
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e181470f6a5430cbbc8b3c4731d802d
+      internalID: -1188628873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_19
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1698
+        width: 94
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f544d49db3a98cbbda5840b23d8611fb
+      internalID: 1534303986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_20
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1690
+        width: 107
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcadcc0236fb23f79e2f0cf5f69c68c
+      internalID: -318908906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1626
+        width: 75
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61816a9a671f095058a186083cfef1c2
+      internalID: 808292394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_22
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1624
+        width: 75
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef420e5b57869773da4e107f97c63b42
+      internalID: -87173141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_23
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1623
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb70c09863960c69863ad49f8055bb2
+      internalID: 1910518691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_24
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1623
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f681838b3d14df0ebbf44d5a66244642
+      internalID: 1344170985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_25
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1610
+        width: 71
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edd7ec537cfe165c9ec6b15e71c7c75
+      internalID: 1742911040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_26
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1606
+        width: 91
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6963da53439a1f4989152d37de2a77a1
+      internalID: 1976539679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_27
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1605
+        width: 108
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be32364847839f53b14e2eb11cf9e91
+      internalID: 536941809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_28
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1606
+        width: 82
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e99fec969e39d01b01e71cbb571279
+      internalID: -1653253262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_29
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1600
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0393b259d525167089339a63b1419baa
+      internalID: -1146695034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_30
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1592
+        width: 88
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca579660ff196b66b6d12415e10a567
+      internalID: 48038250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_31
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1590
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c37caaea022798093ccf393edaf053
+      internalID: -1044531056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_32
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1595
+        width: 92
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c7fb6a60f40debf8df34bc1f13b638
+      internalID: 1010086183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_33
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1530
+        width: 90
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb786ed307bcf2e69385863e88dbbce
+      internalID: 1226533416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_34
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1528
+        width: 117
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63b39173f650d67c86f75c60ac2a1e5
+      internalID: 135030662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_35
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1528
+        width: 91
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4fef2b7bb4d6640a2395597c379aa1
+      internalID: -880176271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_36
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1520
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1474bf59acb8a37e8e4a3f25673c5e7
+      internalID: 1354478037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_37
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1513
+        width: 84
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91084b282192fc4bbbb48794eeab006d
+      internalID: -1217995906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_38
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1514
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c5290f6cc78dd359dc676bfb6c2756
+      internalID: -199326741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_39
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1505
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf11670cad61a9f8ab0db9fe1d690a0
+      internalID: 1987271352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_40
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1504
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcb99508cd77a7ff98c656e6982677a
+      internalID: 1552473919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_41
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1499
+        width: 110
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf21cf63c65443a4826403fa26d025e
+      internalID: 1605930523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_42
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1493
+        width: 101
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a29f38de68a820ab2dc42df5fde313
+      internalID: -582484237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_43
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1435
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2addb7dcef63d23902b599080d85e5
+      internalID: 322819411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_44
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1418
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f91608cfa65c525f89b1421797b50a8
+      internalID: 1852839639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_45
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1419
+        width: 85
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96d4327d5f1d62ce9b4ffdd976e1ea7
+      internalID: -833092288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_46
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1418
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf65bea5ca188401b40a03278cfda65
+      internalID: 407020250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_47
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1412
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49906357dffa77158e562462cfd65d5
+      internalID: 823160256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_48
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1411
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd78baa08154feac6bcff6c96b88c277
+      internalID: 32726633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_49
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1410
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec7fe1214a3891988ae5f278d5bf816
+      internalID: 1795744636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_50
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1407
+        width: 75
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75cddb347ab7cb6ea8bfb6b4daf28aa
+      internalID: 556696874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_51
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1396
+        width: 87
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc31af774d33e92d9a82d269c88b3fd
+      internalID: -578317194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_52
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1400
+        width: 79
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7200a09a44913399d9ae74f6cfa593c6
+      internalID: -2050878038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_53
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1389
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4646bc590a6b33499b1b474c1fdfc326
+      internalID: 1964835208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_54
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1392
+        width: 118
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d5a1ca3087595a1b8e904c4f65f514
+      internalID: 1232621788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_55
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1324
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a547df3d377c813d9f594ab6d65a110
+      internalID: 1570543230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_56
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1323
+        width: 107
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439c5648a137206d0bb674628052835f
+      internalID: 2071101462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_57
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1312
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe7ebf5cbc41ea9bbca4e78a69c0c3b
+      internalID: -1471191317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_58
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1311
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08752f1af3513f8395b01d22c2ae289
+      internalID: -1565347263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_59
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1308
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc5ffca7246459a3b0e0410bea659ce
+      internalID: -143816202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_60
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1302
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea3adabcc405a0b39f26e6b619c361f
+      internalID: -867752175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_61
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1299
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80850a94647e12038d57058c4f13ca6
+      internalID: 1755523347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_62
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1301
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873f47cd6c1083d27aaac6299def720e
+      internalID: -1096120268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_63
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1301
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e33bb971a28667faf86a1843878ae5
+      internalID: 20690214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_64
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1300
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fabdec51eb12eb65883e8ed8b29af3c
+      internalID: 1636172677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_65
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1298
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42c1f2f0e2f7b98389b25623608a213
+      internalID: 1123508384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_66
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1294
+        width: 120
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7c5bd4c0c13ab7a9a2888c07284cda
+      internalID: 1325420070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_67
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1197
+        width: 129
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e89fae424eaf8d239d8ad4aa7c448d2
+      internalID: -2065363516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_68
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1203
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d818edf1a81c37f42ab65bf32f71d503
+      internalID: -2005536301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_69
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1197
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a246bdaefdaca0aaf44be99893e864
+      internalID: 2055261104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_70
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1194
+        width: 40
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703c44cbaee6d20ea90acdcd9b889abe
+      internalID: 784600322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_71
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1186
+        width: 78
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0323f6179c85ebaf4bded53c6a956146
+      internalID: -1654607557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_72
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1181
+        width: 80
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a910ec63ec70946889088846d2b58e9
+      internalID: -564492549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_73
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1189
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985a4c2f658a4551db32c9d1ad13c3ea
+      internalID: 1007496808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_74
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1186
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9712309771025a9c59378d535d6252a7
+      internalID: 350248774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_75
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1186
+        width: 94
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108cd4a17c6f80af8807cbc04ccecff5
+      internalID: 474697478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_76
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1182
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa258b238f56869ba1455979481771c
+      internalID: 1777731863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_77
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1180
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76827a3c7dd09776a8644f4bdc5b83dc
+      internalID: 1167881651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_78
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1094
+        width: 89
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1856273b9cfe98949f3e4e8d0560d68
+      internalID: -1769046117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_79
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1093
+        width: 87
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73233383ad662cecaf59631108a4961
+      internalID: -1114556100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_80
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1109
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5176ac081e4233dda9f9fa83dc9e993
+      internalID: 1926091952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_81
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1093
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b161d860c5ade8741937bf2099f0e4fc
+      internalID: -45978969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_82
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1036
+        width: 41
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5ed11a0e79070948d1ac94361e746f
+      internalID: -2099393642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_83
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1032
+        width: 37
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c20938b3bd42eca69749d5b734ec5c7
+      internalID: -1625648867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_84
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1049
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ed30c03858232b4a58cadcafdba465
+      internalID: 103951740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_85
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1090
+        width: 92
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1b8a44b2a309268b61cbbc817ca18c
+      internalID: 434205395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_86
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1098
+        width: 102
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a4e39c4607c9a2998acb1013d808f1
+      internalID: -74008710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_87
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1088
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daf5d42f71b30de6a03b1901bdd9e21
+      internalID: 140309789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_88
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1092
+        width: 88
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ea169955c7919609fe759be19af05e
+      internalID: 887515624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_89
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1053
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6207881769151d3d39d0ef5dba9012d4
+      internalID: -1686179292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_90
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 974
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9694a1f7dfafe1628bfffa30772c6864
+      internalID: 1058499207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_91
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 980
+        width: 118
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca9a7bef4c526a34843e464003dba63
+      internalID: 353056632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_92
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 967
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb983904be30912696cf461c44241e7
+      internalID: -1621281042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_93
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1035
+        width: 107
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d279e33b06a7bf31fb37eeb7a4e0704a
+      internalID: -1503377176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_94
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1018
+        width: 79
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81267c3ea7c272b2aa5d85325daf1bfb
+      internalID: -660273435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_95
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 992
+        width: 86
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9989eb768ec28e57ab258f092e57fa0a
+      internalID: -1860904395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_96
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 847
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b464332deadf7059744c55ae82f1e8
+      internalID: -1049518761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_97
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 850
+        width: 86
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad910f80a9306566b02de219f202c56
+      internalID: -1119589909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_98
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 852
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f1da6ec57946286bbf3f9fbbbf35c8
+      internalID: 1767896601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_99
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 850
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0288204c980f4a7a8f8b2c86d4521d
+      internalID: -1884993711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_100
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 852
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a0be2921f0572bbb4ad07bfb1f8bc4
+      internalID: 1594247592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_101
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 852
+        width: 91
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01858c6844adfdc989999264beda79dc
+      internalID: 788855943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_102
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 851
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1946b590402943b63a32bd1668223511
+      internalID: 924143976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_103
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 849
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3bef3c81db59c02914be4bb12042c3
+      internalID: -1471650132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_104
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 909
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e527a0e5f5eaba8a873a54d9e9b895
+      internalID: -868018478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_105
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 905
+        width: 95
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22e291cce10f181fbe5526401f5f534
+      internalID: -1327466020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_106
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 890
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece4a8512fd3a75f48152c9933a3cd02
+      internalID: -281161405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_107
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 896
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcf7676b68c6d344adf118c73b4dd90
+      internalID: -1914602624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_108
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 731
+        width: 89
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7f4015338f464a68dcfd3e976a8b00
+      internalID: 1030964892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_109
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 832
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13aa5767ca16355fdb33ff8e53bc1bd2
+      internalID: 2082674837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_110
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 731
+        width: 82
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098ce46f4f98e789d9729098a6db24a2
+      internalID: -1848306721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_111
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 741
+        width: 81
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afaf8caae77f596ceb11466053552f93
+      internalID: -1728811953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_112
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 748
+        width: 92
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd76004d224574db59d4e8b9ca8fe703
+      internalID: -975801424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_113
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 730
+        width: 62
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf7797e351c6f06dbec9f986bcf58e4
+      internalID: -1650264665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_114
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 733
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebd0b21abc7a94c2bec1538222f052e
+      internalID: 1415296028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_115
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 728
+        width: 74
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a6ba676a7b3c162b1caec6f2fee490
+      internalID: -1325963270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_116
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 722
+        width: 95
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1245b942399a99853a21242635ebb0c1
+      internalID: -858664046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_117
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 744
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabdfc2e4532f877c80fa250cdf22944
+      internalID: 456967495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_118
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 717
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2469c18d69b9786da9bbf74864886415
+      internalID: 230530888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_119
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 715
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaa4dd6da7d56780bd0dbef9deacdb9
+      internalID: 697075214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_120
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 721
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6c593529ba4eaf3bbe02ce88a34f29
+      internalID: -633352761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_121
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 617
+        width: 115
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cdbaf6e225cc0b7ba4a5b5e6b19486
+      internalID: 224457769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_122
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 620
+        width: 99
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952103953766fbb81888b32034179822
+      internalID: -80757328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_123
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 618
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d02fbf2606e0b828a8ba55d1ae1cc3
+      internalID: -68585632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_124
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 617
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196f437556181cfa581f736ac5675959
+      internalID: 469079525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_125
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 614
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a95e56175fc86ccbf8e2fd3d52731e
+      internalID: -522598045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_126
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 607
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e9b48a361ddc9098ee732a1ee567af
+      internalID: 1987442561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_127
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 600
+        width: 65
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7675a3e0a09db1966833744797aee8c3
+      internalID: -1356866234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_128
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 597
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e303d0e97547b75a81972a15dd61b15
+      internalID: -1516279978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_129
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 600
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008a50924dcb474c19ccbf2ee1acef83
+      internalID: 2073946575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_130
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 597
+        width: 85
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a02fbc36f9ac4d5a8f79e16357e98fa
+      internalID: 1950605818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_131
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 589
+        width: 118
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36026fa62d73dc25ea104f87cd2c7a89
+      internalID: -1936630225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_132
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 582
+        width: 118
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c19834790c1c8709542e0a2f2c5f60
+      internalID: 1010652482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_133
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 502
+        width: 95
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b239d0667902b77979859cc5e32116
+      internalID: 571988342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_134
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 496
+        width: 63
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb0c45fed928aa83b1f347891fd3577
+      internalID: -1757989330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_135
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 493
+        width: 100
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb77d2e3a85af9268cfaa1bdb658e85
+      internalID: 734608102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_136
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 495
+        width: 103
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ded9b10101ad7af48c35dc1d9cd2960
+      internalID: -292865511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_137
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 488
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5e219c660207ed0b210fb676d561bf
+      internalID: 878061725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_138
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 486
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6af575a4bd895afd9567d115eff3685
+      internalID: 583160916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_139
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 482
+        width: 88
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18cfc25fdbddc46693ae9ec7f1f5498
+      internalID: 1363478709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_140
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 478
+        width: 89
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff56e5a0bb7fffaa8bf2449c7a6e223
+      internalID: 1524059902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_141
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 473
+        width: 92
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61aa0a5a9e766d1f2ba4dc27d93b1f33
+      internalID: -1847588488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_142
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 470
+        width: 89
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef51a39d5b8a01d497de89c368fd577
+      internalID: 1602076841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_143
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 468
+        width: 92
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f8a9eeda1af4b67a9e2c4dc3d84cc4
+      internalID: 55903082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_144
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 377
+        width: 89
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bee167cce6a4063b83203a20ce7cbc
+      internalID: 1817863782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_145
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 377
+        width: 93
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3030a40283c0972945d7bc3061e2f3
+      internalID: -783554109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_146
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 376
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c126d63e4e7b57387ff44578d6e9b1
+      internalID: 1646348520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_147
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 375
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a436664da293cafb725e781909fff6
+      internalID: -900558755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_148
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 374
+        width: 104
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cd0b3133b3ab674823cc8d41a442b4
+      internalID: -1985479412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_149
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 372
+        width: 117
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6711eed32cc529719984c0c77f09d9a
+      internalID: -310005334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_150
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 360
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f255f7150b648298c3a2ccc8039eda
+      internalID: -370014420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_151
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 355
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235401b7936b9c66d92089bf2f0211f1
+      internalID: -1109962128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_152
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 349
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffc1d6ea65d28dcdaca336f9e413b06
+      internalID: 556721705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_153
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 346
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71c5780e9c6783d782ecb8b5edb0504
+      internalID: -414383661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_154
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 348
+        width: 61
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2f886ea71938e07b4e2715964c8049
+      internalID: 191175405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_155
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 346
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf174b5367e3ea728a53b31ea2e82c33
+      internalID: -93989549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_156
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 236
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a1f65a55dd463f4a228cbc9265c5ce
+      internalID: -825450664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_157
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 235
+        width: 47
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8beee313fb31564e590d23e646e21d06
+      internalID: -886848078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_158
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 238
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e74c56a770486a6793862299fd3d6b7
+      internalID: -1560463699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_159
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 230
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b765a4f3d12c9071093c791be22a703a
+      internalID: 507511692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_160
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 227
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1c39ece5be3d797b533589102ebd60
+      internalID: -1274508973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_161
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 225
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87565165ffdf49e5797896f515dab768
+      internalID: 201420013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_162
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 227
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34628bb7ec75a3281ab2a719abd003ac
+      internalID: 463148830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_163
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 225
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180a000786d04d020bf01b061c386aa2
+      internalID: 332179356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_164
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 227
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba27df5363d8efd1ab8cc7321eba692
+      internalID: 989977608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_165
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 225
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943fe0fc00254e65eba4625066ef0c97
+      internalID: -984740443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_166
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 213
+        width: 94
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caedce1c3c0ece5babd3aa287c0d7ecf
+      internalID: -781764878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_167
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 133
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948695b5911716982aec1fa539c42589
+      internalID: 1842242453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_168
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 132
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f469d80b4532ba81ac70ee5ab59cd45
+      internalID: -1794521028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_169
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 134
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53581e79fe2e2ec86a68eb1dee8af716
+      internalID: 1431468686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_170
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 131
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d14c2af9e13241619408e44afcec48d
+      internalID: -1995487629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_171
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 129
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac56f04d20eb4039b0a5843fa1b11b8
+      internalID: -682154320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_172
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 134
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27f0f971ba35d61ab2de4f057684d90
+      internalID: 1755187228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_173
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 131
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c96367fd25ccd84e871c713ab8d63c9
+      internalID: -1477625093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_174
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 130
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f97f07919ccaed5a77fbf002d86652
+      internalID: 1710165587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_175
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 125
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca521a9e08dddf1558c8d05a98a1314b
+      internalID: 1870816764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_176
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 125
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5cf74503301dbeba3d1722ef24a9e0
+      internalID: -163952341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_177
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 29
+        width: 65
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16c064a5299bc7ccb0ed8b6102dcd7b
+      internalID: 773473866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_178
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 25
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f28e2517c337be8daeaf3a81b9222bd
+      internalID: -1245302247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_179
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 23
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1193a7ab29c046d85959d5afe8448f03
+      internalID: -1302244080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_180
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 22
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131412b5b56dc86f2a60960e5d2f7421
+      internalID: -2058056823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_181
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 23
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5611e3347592093d19f726b72bbfe965
+      internalID: -261175535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_0: -1816888473
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_1: -889967602
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_10: -571135486
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_100: 1594247592
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_101: 788855943
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_102: 924143976
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_103: -1471650132
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_104: -868018478
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_105: -1327466020
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_106: -281161405
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_107: -1914602624
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_108: 1030964892
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_109: 2082674837
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_11: -137156929
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_110: -1848306721
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_111: -1728811953
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_112: -975801424
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_113: -1650264665
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_114: 1415296028
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_115: -1325963270
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_116: -858664046
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_117: 456967495
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_118: 230530888
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_119: 697075214
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_12: 1499361589
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_120: -633352761
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_121: 224457769
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_122: -80757328
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_123: -68585632
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_124: 469079525
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_125: -522598045
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_126: 1987442561
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_127: -1356866234
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_128: -1516279978
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_129: 2073946575
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_13: -1965091496
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_130: 1950605818
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_131: -1936630225
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_132: 1010652482
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_133: 571988342
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_134: -1757989330
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_135: 734608102
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_136: -292865511
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_137: 878061725
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_138: 583160916
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_139: 1363478709
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_14: -1915797733
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_140: 1524059902
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_141: -1847588488
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_142: 1602076841
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_143: 55903082
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_144: 1817863782
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_145: -783554109
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_146: 1646348520
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_147: -900558755
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_148: -1985479412
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_149: -310005334
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_15: 1203997768
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_150: -370014420
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_151: -1109962128
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_152: 556721705
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_153: -414383661
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_154: 191175405
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_155: -93989549
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_156: -825450664
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_157: -886848078
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_158: -1560463699
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_159: 507511692
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_16: 1063179177
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_160: -1274508973
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_161: 201420013
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_162: 463148830
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_163: 332179356
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_164: 989977608
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_165: -984740443
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_166: -781764878
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_167: 1842242453
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_168: -1794521028
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_169: 1431468686
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_17: -1300743079
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_170: -1995487629
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_171: -682154320
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_172: 1755187228
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_173: -1477625093
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_174: 1710165587
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_175: 1870816764
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_176: -163952341
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_177: 773473866
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_178: -1245302247
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_179: -1302244080
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_18: -1188628873
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_180: -2058056823
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_181: -261175535
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_19: 1534303986
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_2: -584800592
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_20: -318908906
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_21: 808292394
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_22: -87173141
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_23: 1910518691
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_24: 1344170985
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_25: 1742911040
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_26: 1976539679
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_27: 536941809
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_28: -1653253262
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_29: -1146695034
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_3: 1800873041
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_30: 48038250
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_31: -1044531056
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_32: 1010086183
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_33: 1226533416
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_34: 135030662
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_35: -880176271
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_36: 1354478037
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_37: -1217995906
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_38: -199326741
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_39: 1987271352
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_4: -1813499443
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_40: 1552473919
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_41: 1605930523
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_42: -582484237
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_43: 322819411
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_44: 1852839639
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_45: -833092288
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_46: 407020250
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_47: 823160256
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_48: 32726633
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_49: 1795744636
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_5: -677738461
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_50: 556696874
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_51: -578317194
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_52: -2050878038
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_53: 1964835208
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_54: 1232621788
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_55: 1570543230
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_56: 2071101462
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_57: -1471191317
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_58: -1565347263
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_59: -143816202
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_6: 1856287627
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_60: -867752175
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_61: 1755523347
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_62: -1096120268
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_63: 20690214
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_64: 1636172677
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_65: 1123508384
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_66: 1325420070
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_67: -2065363516
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_68: -2005536301
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_69: 2055261104
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_7: 113375201
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_70: 784600322
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_71: -1654607557
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_72: -564492549
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_73: 1007496808
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_74: 350248774
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_75: 474697478
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_76: 1777731863
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_77: 1167881651
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_78: -1769046117
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_79: -1114556100
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_8: 1356530076
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_80: 1926091952
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_81: -45978969
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_82: -2099393642
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_83: -1625648867
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_84: 103951740
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_85: 434205395
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_86: -74008710
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_87: 140309789
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_88: 887515624
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_89: -1686179292
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_9: 894949790
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_90: 1058499207
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_91: 353056632
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_92: -1621281042
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_93: -1503377176
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_94: -660273435
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_95: -1860904395
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_96: -1049518761
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_97: -1119589909
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_98: 1767896601
+      ibuki_sprite_sheet__old_stuff_and_videos__by_darkburster1_dcjt8w2-fullview_99: -1884993711
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
