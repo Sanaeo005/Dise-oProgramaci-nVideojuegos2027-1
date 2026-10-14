@@ -1,0 +1,59 @@
+using UnityEngine;
+
+public class PlayerMovement : MonoBehaviour
+{
+    public float speed = 6f;
+    public float runSpeed = 10f;
+    public float gravity = -9.8f;
+    public float jumpForce = 8f;
+
+    CharacterController controller;
+    Vector3 velocity;
+
+    void Start()
+    {
+        controller = GetComponent<CharacterController>();
+    }
+
+    void Update()
+    {
+    	float x = Input.GetAxis("Horizontal");
+	float z = Input.GetAxis("Vertical");
+
+	Vector3 move = transform.right * x + transform.forward * z;
+
+	bool isRunning = Input.GetKey(KeyCode.LeftShift);
+	float currentSpeed = isRunning ? runSpeed : speed;
+
+	bool grounded = controller.isGrounded;
+
+	if (grounded && velocity.y < 0)
+	    velocity.y = -2f;
+
+	if (Input.GetKeyDown(KeyCode.Space) && grounded)
+	    velocity.y = jumpForce;
+
+	controller.Move(move * currentSpeed * Time.deltaTime);
+
+	velocity.y += gravity * Time.deltaTime;
+
+	controller.Move(velocity * Time.deltaTime);
+    }
+    
+    
+    void OnControllerColliderHit(ControllerColliderHit hit)
+    {
+	Rigidbody rb = hit.collider.attachedRigidbody;
+
+	if (rb == null || rb.isKinematic)
+	    return;
+
+	Vector3 pushDir = new Vector3(
+	hit.moveDirection.x,
+	0,
+	hit.moveDirection.z
+	);
+
+	rb.velocity = pushDir * 4f;
+    }
+}
